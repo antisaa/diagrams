@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2020-08-29T18:52:48.722Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" version="13.1.3" etag="pUxIptQQo7Fro5SI8UFx" type="github"><diagram id="0O_YcB5mLCUJdVHEqleV">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-29T21:04:31.192Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="pp2sEqCvyx0SgXqr0P-0" version="13.1.3" type="github">
+  <diagram id="0O_YcB5mLCUJdVHEqleV" name="Page-1">
+    <mxGraphModel dx="1422" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="x4V0W5b-Pq-APEWaL2-4-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x4V0W5b-Pq-APEWaL2-4-1" target="x4V0W5b-Pq-APEWaL2-4-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x4V0W5b-Pq-APEWaL2-4-1" value="&lt;span&gt;Plasma lanac&lt;/span&gt;&lt;br&gt;&lt;span&gt;(dubine 1)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x4V0W5b-Pq-APEWaL2-4-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x4V0W5b-Pq-APEWaL2-4-2" target="x4V0W5b-Pq-APEWaL2-4-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x4V0W5b-Pq-APEWaL2-4-2" value="Alice&amp;nbsp;&lt;br&gt;1 ETH" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x4V0W5b-Pq-APEWaL2-4-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x4V0W5b-Pq-APEWaL2-4-3" target="x4V0W5b-Pq-APEWaL2-4-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x4V0W5b-Pq-APEWaL2-4-3" value="Plasma lanac&lt;br&gt;(dubine 3)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x4V0W5b-Pq-APEWaL2-4-4" value="Plasma lanac&lt;br&gt;(dubine 2)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x4V0W5b-Pq-APEWaL2-4-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x4V0W5b-Pq-APEWaL2-4-5" target="x4V0W5b-Pq-APEWaL2-4-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x4V0W5b-Pq-APEWaL2-4-5" value="Plasma lanac&lt;br&gt;(dubine 2)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x4V0W5b-Pq-APEWaL2-4-6" value="Plasma lanac&lt;br&gt;(dubine 2)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x4V0W5b-Pq-APEWaL2-4-7" value="Glavni lanac&lt;br&gt;(npr. Ethereum)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x4V0W5b-Pq-APEWaL2-4-8" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x4V0W5b-Pq-APEWaL2-4-6" target="x4V0W5b-Pq-APEWaL2-4-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="430" as="sourcePoint" />
+            <mxPoint x="350" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x4V0W5b-Pq-APEWaL2-4-9" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x4V0W5b-Pq-APEWaL2-4-4" target="x4V0W5b-Pq-APEWaL2-4-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="440" as="sourcePoint" />
+            <mxPoint x="450" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
